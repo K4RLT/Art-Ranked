@@ -36,5 +36,43 @@
     ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
+  },
+  "custom_b23a4a075e": {
+    "artworkId": "custom_b23a4a075e",
+    "author": "visitor",
+    "category": "custom",
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, anatomy, lighting, color, and visual impact",
+        "reason": null
+      }
+    ],
+    "scoreFormulaVersion": 1,
+    "ratingSystemVersion": 1
+  },
+  "custom_acebbddcda": {
+    "artworkId": "custom_acebbddcda",
+    "author": "visitor",
+    "category": "custom",
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, anatomy, lighting, color, and visual impact",
+        "reason": "The artwork's composition, anatomy, lighting, color, and visual impact are enhanced by the playful and whimsical depiction of a cat-like figure holding a birthday cake amidst festive decorations."
+      }
+    ],
+    "scoreFormulaVersion": 1,
+    "ratingSystemVersion": 1
   }
 }
