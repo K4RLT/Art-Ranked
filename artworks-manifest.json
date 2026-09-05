@@ -1,5 +1,23 @@
 [
   {
+    "id": "custom_a76013ade3",
+    "title": "Test Artwork B",
+    "category": "custom",
+    "tag": "Custom",
+    "date": "2026-09-05",
+    "thumb": "https://ik.imagekit.io/yiran/art-rank-custom/verify_test_CjeiRJtzC.png",
+    "fullres": "https://ik.imagekit.io/yiran/art-rank-custom/verify_test_CjeiRJtzC.png"
+  },
+  {
+    "id": "custom_5f8f47326c",
+    "title": "Test Artwork A",
+    "category": "custom",
+    "tag": "Custom",
+    "date": "2026-09-05",
+    "thumb": "https://ik.imagekit.io/yiran/art-rank-custom/test_pixel_lXOHyuu3z.png",
+    "fullres": "https://ik.imagekit.io/yiran/art-rank-custom/test_pixel_lXOHyuu3z.png"
+  },
+  {
     "id": "6a4b44d65c7cd75eb8bffeb3",
     "title": "2026 07 05 21 50",
     "category": "illustration",

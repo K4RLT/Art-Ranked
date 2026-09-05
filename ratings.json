@@ -1,1 +1,40 @@
-{}
+{
+  "custom_5f8f47326c": {
+    "artworkId": "custom_5f8f47326c",
+    "author": "visitor",
+    "category": "custom",
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "dynamic lighting and composition",
+        "reason": null
+      }
+    ],
+    "scoreFormulaVersion": 1,
+    "ratingSystemVersion": 1
+  },
+  "custom_a76013ade3": {
+    "artworkId": "custom_a76013ade3",
+    "author": "visitor",
+    "category": "custom",
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "dynamic lighting and composition",
+        "reason": "The dynamic interplay of light and color creates a sense of movement and energy."
+      }
+    ],
+    "scoreFormulaVersion": 1,
+    "ratingSystemVersion": 1
+  }
+}
