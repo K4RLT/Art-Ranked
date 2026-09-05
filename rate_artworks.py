@@ -67,12 +67,12 @@ class MoondreamJudge:
 
         with torch.no_grad():
             print(f"  -> Querying Moondream2 on Image A...", flush=True)
-            res_a = self.model.query(img_a, prompt, settings={"max_tokens": 40})
+            res_a = self.model.query(img_a, prompt, settings={"variant": None, "max_tokens": 50})
             analysis_a = (res_a.get("answer", "") if isinstance(res_a, dict) else str(res_a)).strip()
             print(f"     Image A analysis: {analysis_a}", flush=True)
 
             print(f"  -> Querying Moondream2 on Image B...", flush=True)
-            res_b = self.model.query(img_b, prompt, settings={"max_tokens": 40})
+            res_b = self.model.query(img_b, prompt, settings={"variant": None, "max_tokens": 50})
             analysis_b = (res_b.get("answer", "") if isinstance(res_b, dict) else str(res_b)).strip()
             print(f"     Image B analysis: {analysis_b}", flush=True)
 
