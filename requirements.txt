@@ -2,3 +2,4 @@ transformers
 einops
 pillow
 requests
+accelerate

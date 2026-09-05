@@ -30,18 +30,17 @@ class MoondreamJudge:
     def __init__(self):
         print("Initializing Moondream2 on CPU...")
         import torch
-        from transformers import AutoModelForCausalLM, AutoTokenizer
+        from transformers import AutoModelForCausalLM
 
         self.model_id = "vikhyatk/moondream2"
-        self.revision = "2025-01-09"
+        self.revision = "2025-06-21"
 
-        self.tokenizer = AutoTokenizer.from_pretrained(self.model_id, revision=self.revision)
         self.model = AutoModelForCausalLM.from_pretrained(
             self.model_id,
             trust_remote_code=True,
             revision=self.revision,
             torch_dtype=torch.float32,
-            device_map="cpu"
+            device_map={"": "cpu"}
         )
         self.model.eval()
         print("Moondream2 loaded successfully!")
