@@ -58,8 +58,9 @@ jobs:
 
       - name: Run Moondream2 Seeding & Judging
         run: |
-          python rate_artworks.py
+          python -u rate_artworks.py
         env:
+          PYTHONUNBUFFERED: "1"
           BATCH_MATCHES: ${{ github.event.inputs.batch_size || '5' }}
           CUSTOM_MODE: ${{ github.event.inputs.custom_mode || 'false' }}
           IMAGE_A_URL: ${{ github.event.inputs.image_a_url }}

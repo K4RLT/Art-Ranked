@@ -46,14 +46,18 @@ class MoondreamJudge:
         print("Moondream2 loaded successfully!")
 
     def download_image(self, url: str) -> Image.Image:
-        resp = requests.get(url, timeout=18, headers={"User-Agent": "ArtRanked-Seeder/1.0"})
+        resp = requests.get(url, timeout=25, headers={"User-Agent": "ArtRanked-Seeder/1.0"})
         resp.raise_for_status()
-        return Image.open(io.BytesIO(resp.content)).convert("RGB")
+        img = Image.open(io.BytesIO(resp.content)).convert("RGB")
+        img.thumbnail((768, 768), Image.Resampling.LANCZOS)
+        return img
 
     def compare(self, img_url_a: str, img_url_b: str, criteria: str = "composition, anatomy, lighting, color, and visual impact"):
         import torch
 
+        print("  -> Downloading Image A...", flush=True)
         img_a = self.download_image(img_url_a)
+        print("  -> Downloading Image B...", flush=True)
         img_b = self.download_image(img_url_b)
 
         prompt = (
@@ -62,8 +66,15 @@ class MoondreamJudge:
         )
 
         with torch.no_grad():
-            analysis_a = self.model.query(img_a, prompt).get("answer", "").strip()
-            analysis_b = self.model.query(img_b, prompt).get("answer", "").strip()
+            print(f"  -> Querying Moondream2 on Image A...", flush=True)
+            res_a = self.model.query(img_a, prompt, settings={"max_tokens": 40})
+            analysis_a = (res_a.get("answer", "") if isinstance(res_a, dict) else str(res_a)).strip()
+            print(f"     Image A analysis: {analysis_a}", flush=True)
+
+            print(f"  -> Querying Moondream2 on Image B...", flush=True)
+            res_b = self.model.query(img_b, prompt, settings={"max_tokens": 40})
+            analysis_b = (res_b.get("answer", "") if isinstance(res_b, dict) else str(res_b)).strip()
+            print(f"     Image B analysis: {analysis_b}", flush=True)
 
         score_a = len(analysis_a.split())
         score_b = len(analysis_b.split())
