@@ -49,7 +49,7 @@ class MoondreamJudge:
         resp = requests.get(url, timeout=25, headers={"User-Agent": "ArtRanked-Seeder/1.0"})
         resp.raise_for_status()
         img = Image.open(io.BytesIO(resp.content)).convert("RGB")
-        img.thumbnail((768, 768), Image.Resampling.LANCZOS)
+        img.thumbnail((1024, 1024), Image.Resampling.LANCZOS)
         return img
 
     def compare(self, img_url_a: str, img_url_b: str, criteria: str = "composition, anatomy, lighting, color, and visual impact"):
