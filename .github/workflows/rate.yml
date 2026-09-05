@@ -7,9 +7,31 @@ on:
   workflow_dispatch:
     inputs:
       batch_size:
-        description: 'Number of matches to run'
+        description: 'Number of random matches to run (if custom_mode is false)'
         required: false
         default: '5'
+      custom_mode:
+        description: 'Run on custom pair? (true / false)'
+        required: false
+        default: 'false'
+      image_a_url:
+        description: 'Direct URL of Image A'
+        required: false
+      image_b_url:
+        description: 'Direct URL of Image B'
+        required: false
+      title_a:
+        description: 'Title of Artwork A'
+        required: false
+        default: 'Custom Artwork A'
+      title_b:
+        description: 'Title of Artwork B'
+        required: false
+        default: 'Custom Artwork B'
+      criteria:
+        description: 'Custom judging criteria'
+        required: false
+        default: 'composition, anatomy, lighting, color, and visual impact'
 
 permissions:
   contents: write
@@ -34,11 +56,17 @@ jobs:
           pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
           pip install transformers einops pillow requests
 
-      - name: Run Moondream2 Seeding
+      - name: Run Moondream2 Seeding & Judging
         run: |
           python rate_artworks.py
         env:
           BATCH_MATCHES: ${{ github.event.inputs.batch_size || '5' }}
+          CUSTOM_MODE: ${{ github.event.inputs.custom_mode || 'false' }}
+          IMAGE_A_URL: ${{ github.event.inputs.image_a_url }}
+          IMAGE_B_URL: ${{ github.event.inputs.image_b_url }}
+          TITLE_A: ${{ github.event.inputs.title_a || 'Custom Artwork A' }}
+          TITLE_B: ${{ github.event.inputs.title_b || 'Custom Artwork B' }}
+          CRITERIA: ${{ github.event.inputs.criteria || 'composition, anatomy, lighting, color, and visual impact' }}
           KV_REST_API_URL: ${{ secrets.KV_REST_API_URL }}
           KV_REST_API_TOKEN: ${{ secrets.KV_REST_API_TOKEN }}
 
@@ -46,7 +74,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add ratings.json
+          git add ratings.json artworks-manifest.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else

@@ -1,9 +1,10 @@
 """
 rate_artworks.py
-Scheduled AI-seeding job for Art-Ranked (Section 8 of spec)
+Scheduled AI-seeding & On-Demand Custom Matchup Runner for Art-Ranked.
 Runs Moondream2 on CPU inside GitHub Actions runner.
-Selects pairs needing votes (prioritizing low vote count), evaluates with Moondream2,
-runs updateElo(K=16), and syncs results to shared KV / Vercel KV / GitHub storage.
+Supports:
+1. Custom Matchups (triggered via workflow_dispatch with image_a_url and image_b_url)
+2. Automated Swiss-style batch comparisons on a 6-hour cron schedule.
 """
 
 import os
@@ -11,6 +12,8 @@ import json
 import random
 import io
 import math
+import hashlib
+from datetime import datetime
 import requests
 from PIL import Image
 
@@ -31,7 +34,7 @@ class MoondreamJudge:
 
         self.model_id = "vikhyatk/moondream2"
         self.revision = "2025-01-09"
-        
+
         self.tokenizer = AutoTokenizer.from_pretrained(self.model_id, revision=self.revision)
         self.model = AutoModelForCausalLM.from_pretrained(
             self.model_id,
@@ -44,7 +47,7 @@ class MoondreamJudge:
         print("Moondream2 loaded successfully!")
 
     def download_image(self, url: str) -> Image.Image:
-        resp = requests.get(url, timeout=15, headers={"User-Agent": "ArtRanked-Seeder/1.0"})
+        resp = requests.get(url, timeout=18, headers={"User-Agent": "ArtRanked-Seeder/1.0"})
         resp.raise_for_status()
         return Image.open(io.BytesIO(resp.content)).convert("RGB")
 
@@ -99,7 +102,6 @@ def sync_to_kv(ratings):
     kv_token = os.getenv("KV_REST_API_TOKEN")
 
     if not kv_url or not kv_token:
-        print("No KV REST API credentials provided; skipping remote KV sync.")
         return
 
     headers = {"Authorization": f"Bearer {kv_token}"}
@@ -113,22 +115,109 @@ def sync_to_kv(ratings):
             )
         except Exception as e:
             print(f"Failed to sync {art_id} to KV: {e}")
-    print("KV sync complete.")
 
-# ── MAIN SEEDING LOOP ──
+def make_artwork_id(title: str, url: str) -> str:
+    raw = f"{title}_{url}"
+    return "custom_" + hashlib.md5(raw.encode("utf-8")).hexdigest()[:10]
+
+# ── MAIN RUNNER ──
 def main():
     manifest_path = "artworks-manifest.json"
-    if not os.path.exists(manifest_path):
-        print(f"Error: {manifest_path} not found.")
-        return
+    artworks = []
+    if os.path.exists(manifest_path):
+        with open(manifest_path, "r", encoding="utf-8") as f:
+            artworks = json.load(f)
 
-    with open(manifest_path, "r", encoding="utf-8") as f:
-        artworks = json.load(f)
-
-    print(f"Loaded {len(artworks)} artworks from manifest.")
     ratings = load_ratings("ratings.json")
 
-    # Ensure all artworks have a record
+    # Check if this is a custom matchup dispatch
+    is_custom_mode = os.getenv("CUSTOM_MODE", "false").lower() == "true"
+    custom_url_a = os.getenv("IMAGE_A_URL", "").strip()
+    custom_url_b = os.getenv("IMAGE_B_URL", "").strip()
+
+    judge = MoondreamJudge()
+
+    if is_custom_mode and custom_url_a and custom_url_b:
+        print("\n=== RUNNING ON-DEMAND CUSTOM MATCHUP ===")
+        title_a = os.getenv("TITLE_A", "Custom Artwork A").strip() or "Custom Artwork A"
+        title_b = os.getenv("TITLE_B", "Custom Artwork B").strip() or "Custom Artwork B"
+        criteria = os.getenv("CRITERIA", "").strip() or "composition, anatomy, lighting, color, and visual impact"
+
+        id_a = make_artwork_id(title_a, custom_url_a)
+        id_b = make_artwork_id(title_b, custom_url_b)
+
+        # Ensure entries in manifest
+        existing_ids = {a["id"] for a in artworks}
+        today_str = datetime.utcnow().strftime("%Y-%m-%d")
+
+        if id_a not in existing_ids:
+            artworks.insert(0, {
+                "id": id_a,
+                "title": title_a,
+                "category": "custom",
+                "tag": "Custom",
+                "date": today_str,
+                "thumb": custom_url_a,
+                "fullres": custom_url_a
+            })
+        if id_b not in existing_ids:
+            artworks.insert(0, {
+                "id": id_b,
+                "title": title_b,
+                "category": "custom",
+                "tag": "Custom",
+                "date": today_str,
+                "thumb": custom_url_b,
+                "fullres": custom_url_b
+            })
+
+        # Ensure entries in ratings
+        for art_id, t in [(id_a, title_a), (id_b, title_b)]:
+            if art_id not in ratings:
+                ratings[art_id] = {
+                    "artworkId": art_id,
+                    "author": "visitor",
+                    "category": "custom",
+                    "elo": 1200,
+                    "voteCount": 0,
+                    "recentResults": [],
+                    "lastReasons": [],
+                    "scoreFormulaVersion": 1,
+                    "ratingSystemVersion": 1
+                }
+
+        rec_a = ratings[id_a]
+        rec_b = ratings[id_b]
+
+        print(f"Judging custom match:\n  A: {title_a} ({custom_url_a})\n  B: {title_b} ({custom_url_b})\n  Criteria: {criteria}")
+        winner, reason = judge.compare(custom_url_a, custom_url_b, criteria)
+        winner_is_a = winner == "A"
+
+        print(f"\n★ Winner: Image {winner} ({title_a if winner_is_a else title_b})")
+        print(f"★ Reason: {reason}")
+
+        new_elo_a, new_elo_b = update_elo(rec_a["elo"], rec_b["elo"], winner_is_a, k=16)
+        rec_a["elo"] = new_elo_a
+        rec_a["voteCount"] += 1
+        rec_a["recentResults"] = (rec_a["recentResults"] + [1 if winner_is_a else 0])[-10:]
+        rec_a["lastReasons"] = ([{"by": "ai", "criteria": criteria, "reason": reason if winner_is_a else None}] + rec_a["lastReasons"])[:10]
+
+        rec_b["elo"] = new_elo_b
+        rec_b["voteCount"] += 1
+        rec_b["recentResults"] = (rec_b["recentResults"] + [0 if winner_is_a else 1])[-10:]
+        rec_b["lastReasons"] = ([{"by": "ai", "criteria": criteria, "reason": reason if not winner_is_a else None}] + rec_b["lastReasons"])[:10]
+
+        # Save both manifest & ratings
+        with open(manifest_path, "w", encoding="utf-8") as f:
+            json.dump(artworks, f, indent=2, ensure_ascii=False)
+
+        save_ratings(ratings, "ratings.json")
+        sync_to_kv(ratings)
+        print("Custom matchup evaluation completed and saved!")
+        return
+
+    # Standard scheduled batch mode
+    print(f"\n=== RUNNING SCHEDULED SEEDING BATCH ({len(artworks)} total artworks) ===")
     for art in artworks:
         art_id = art["id"]
         if art_id not in ratings:
@@ -144,14 +233,8 @@ def main():
                 "ratingSystemVersion": 1
             }
 
-    # Pick pairs needing votes (prioritize lowest voteCount)
     sorted_by_votes = sorted(artworks, key=lambda x: ratings[x["id"]]["voteCount"])
-    
-    # Run 5 match comparisons per scheduled cron run (keeps run time ~3-5 mins on CPU)
     num_matches = int(os.getenv("BATCH_MATCHES", "5"))
-    print(f"Starting seeding run: {num_matches} matches...")
-
-    judge = MoondreamJudge()
 
     criteria_list = [
         "anatomy, proportions, and character silhouette",
@@ -162,14 +245,11 @@ def main():
     ]
 
     for i in range(num_matches):
-        # Pick candidate with fewest votes
         art_a = sorted_by_votes[i % len(sorted_by_votes)]
         rec_a = ratings[art_a["id"]]
 
-        # Swiss-style pairing: find candidate with closest Elo rating
         other_candidates = [x for x in artworks if x["id"] != art_a["id"]]
         other_candidates.sort(key=lambda x: abs(ratings[x["id"]]["elo"] - rec_a["elo"]))
-        # Pick randomly from top 8 closest
         art_b = random.choice(other_candidates[:min(8, len(other_candidates))])
         rec_b = ratings[art_b["id"]]
 
@@ -186,8 +266,6 @@ def main():
             print(f"  → Reason: {reason}")
 
             new_elo_a, new_elo_b = update_elo(rec_a["elo"], rec_b["elo"], winner_is_a, k=16)
-
-            # Update records
             rec_a["elo"] = new_elo_a
             rec_a["voteCount"] += 1
             rec_a["recentResults"] = (rec_a["recentResults"] + [1 if winner_is_a else 0])[-10:]
@@ -201,7 +279,6 @@ def main():
         except Exception as err:
             print(f"  → Error judging match {i+1}: {err}")
 
-    # Save updated ratings locally
     save_ratings(ratings, "ratings.json")
     sync_to_kv(ratings)
     print("\nBatch seeding run finished successfully!")
