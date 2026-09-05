@@ -45,8 +45,18 @@ class MoondreamJudge:
         self.model.eval()
         print("Moondream2 loaded successfully!")
 
+    def to_1k_url(self, url: str) -> str:
+        if not url or "imagekit.io" not in url:
+            return url
+        if "tr=" in url:
+            import re
+            return re.sub(r"([?&]tr=)[^&]*", r"\g<1>w-1024,h-1024,c-at_max,q-80", url)
+        sep = "&" if "?" in url else "?"
+        return f"{url}{sep}tr=w-1024,h-1024,c-at_max,q-80"
+
     def download_image(self, url: str) -> Image.Image:
-        resp = requests.get(url, timeout=25, headers={"User-Agent": "ArtRanked-Seeder/1.0"})
+        target_url = self.to_1k_url(url)
+        resp = requests.get(target_url, timeout=25, headers={"User-Agent": "ArtRanked-Seeder/1.0"})
         resp.raise_for_status()
         img = Image.open(io.BytesIO(resp.content)).convert("RGB")
         img.thumbnail((1024, 1024), Image.Resampling.LANCZOS)
