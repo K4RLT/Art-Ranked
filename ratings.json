@@ -190,15 +190,21 @@
     "artworkId": "6a4b452c5c7cd75eb8c1bec8",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 4,
+    "elo": 1208,
+    "voteCount": 5,
     "recentResults": [
       0,
       1,
       0,
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The artwork showcases a detailed and realistic anatomical rendering of a canine character, highlighting its posture, facial features, and fur texture."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -607,14 +613,20 @@
     "artworkId": "6a4b44e55c7cd75eb8c06263",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 3,
+    "elo": 1216,
+    "voteCount": 4,
     "recentResults": [
       0,
+      1,
       1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's emotional resonance and visual impact are enhanced by its use of bold lines, contrasting colors, and focused composition."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -2125,10 +2137,18 @@
     "artworkId": "6a4b45125c7cd75eb8c13d29",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -2137,9 +2157,23 @@
     "author": "karl",
     "category": "new",
     "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "voteCount": 2,
+    "recentResults": [
+      1,
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The sketch emphasizes anatomical accuracy and proportion, capturing the dog's head and upper body in a realistic manner."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -2166,10 +2200,18 @@
     "artworkId": "6a4b452f5c7cd75eb8c1ccdf",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -2196,10 +2238,18 @@
     "artworkId": "6a4b452b5c7cd75eb8c1bbc2",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -2229,10 +2279,18 @@
     "artworkId": "6a4b45065c7cd75eb8c1016a",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork's use of contrasting black and white lines creates a visually striking and balanced composition."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
