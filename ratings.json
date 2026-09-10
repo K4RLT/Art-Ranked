@@ -481,12 +481,18 @@
     "artworkId": "6a4b44dd5c7cd75eb8c031eb",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -718,13 +724,19 @@
     "artworkId": "6a4b454f5c7cd75eb8c27758",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 2,
+    "elo": 1208,
+    "voteCount": 3,
     "recentResults": [
       0,
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork utilizes a warm color palette and soft lighting to create a sense of intimacy and emotional depth."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -3046,10 +3058,18 @@
     "artworkId": "6a4b44cf5c7cd75eb8bfcf4d",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -3057,10 +3077,18 @@
     "artworkId": "6a4b44ca5c7cd75eb8bfbac0",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -3068,10 +3096,18 @@
     "artworkId": "6a4b45165c7cd75eb8c159f0",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -3079,10 +3115,24 @@
     "artworkId": "6a4b45085c7cd75eb8c11065",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1216,
+    "voteCount": 2,
+    "recentResults": [
+      1,
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The strong contrast between the black outlines and the bright yellow background creates a visually striking and dynamic character silhouette."
+      },
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The strong contrast between the black outlines and the bright yellow background creates a visually striking and dynamic character silhouette."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -3101,10 +3151,18 @@
     "artworkId": "6a4b44dd5c7cd75eb8c03105",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork utilizes a limited color palette of black, white, and red, creating a striking contrast and atmospheric effect."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
