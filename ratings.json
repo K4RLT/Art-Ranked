@@ -97,15 +97,21 @@
     "artworkId": "6a4b44d65c7cd75eb8bffeb3",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 4,
+    "elo": 1192,
+    "voteCount": 5,
     "recentResults": [
       0,
       1,
       1,
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -3170,10 +3176,18 @@
     "artworkId": "6a4b45115c7cd75eb8c13893",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of bold, simplified linework and contrasting textures, emphasizing the artist's ability to convey emotions and atmospheres through visual elements."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -3181,10 +3195,18 @@
     "artworkId": "6a4b44c85c7cd75eb8bfb346",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a clear definition and use of linework, textures, and brush techniques."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -3192,10 +3214,18 @@
     "artworkId": "6a4b44cc5c7cd75eb8bfc3db",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of bold, expressive linework and contrasting textures, achieved through thick, visible brushstrokes and a clear distinction between the red and white elements."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -3203,10 +3233,18 @@
     "artworkId": "6a4b44c75c7cd75eb8bfae7e",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -3225,10 +3263,18 @@
     "artworkId": "6a4b45215c7cd75eb8c18d1d",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
