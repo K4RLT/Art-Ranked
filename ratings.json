@@ -103,16 +103,22 @@
     "artworkId": "6a4b44d65c7cd75eb8bffeb3",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 5,
+    "elo": 1200,
+    "voteCount": 6,
     "recentResults": [
       0,
       1,
       1,
       0,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of bold, expressive linework and textures, highlighting the artist's skill in creating dynamic and detailed character designs."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -3536,13 +3542,19 @@
     "artworkId": "6a8459825c7cd75eb8759598",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 2,
+    "elo": 1192,
+    "voteCount": 3,
     "recentResults": [
       1,
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -3656,10 +3668,18 @@
     "artworkId": "6a4b45245c7cd75eb8c199ea",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a focus on linework definition, textures, and brush technique, using loose and expressive lines to create a sense of movement and depth."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -3667,10 +3687,24 @@
     "artworkId": "6a4b44df5c7cd75eb8c03c40",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1184,
+    "voteCount": 2,
+    "recentResults": [
+      0,
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -3697,10 +3731,18 @@
     "artworkId": "6a4b45245c7cd75eb8c19927",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of solid color and subtle textures, emphasizing the artist's skill in representing depth and dimensionality."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -3708,10 +3750,18 @@
     "artworkId": "6a4b454a5c7cd75eb8c261f6",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The simplicity and stark contrast between the white background and the black outline create a powerful and evocative visual impact."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -3741,10 +3791,18 @@
     "artworkId": "6a4b45105c7cd75eb8c13593",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
