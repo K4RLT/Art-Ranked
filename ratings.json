@@ -4721,10 +4721,18 @@
     "artworkId": "6a4b44cd5c7cd75eb8bfc7b1",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's intricate linework and detailed sea creatures create a sense of calm and tranquility."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -4732,10 +4740,18 @@
     "artworkId": "6a4b45175c7cd75eb8c1649e",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The artwork showcases a detailed and realistic anatomical rendering of a character's head and upper body, emphasizing proportions and character silhouette."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -4781,10 +4797,18 @@
     "artworkId": "6a4b454d5c7cd75eb8c27029",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The stark black and white contrasts and minimalist style create a sense of emotional intensity and detachment."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -4836,10 +4860,18 @@
     "artworkId": "6a4b45115c7cd75eb8c136fa",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -4847,10 +4879,18 @@
     "artworkId": "6a4b45195c7cd75eb8c16da1",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -4869,10 +4909,18 @@
     "artworkId": "6a4b450c5c7cd75eb8c12446",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
