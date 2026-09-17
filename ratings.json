@@ -659,15 +659,21 @@
     "artworkId": "6a4b450a5c7cd75eb8c119e1",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 4,
+    "elo": 1208,
+    "voteCount": 5,
     "recentResults": [
       1,
       0,
       1,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of bold, expressive lines and textures, emphasizing the artist's skill in creating depth and detail."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -927,15 +933,21 @@
     "artworkId": "6a4b45245c7cd75eb8c199e2",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 4,
+    "elo": 1208,
+    "voteCount": 5,
     "recentResults": [
       0,
       1,
       0,
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The artwork's anatomical accuracy and proportionality are evident in the detailed rendering of the character's body, limbs, and facial features."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -6008,10 +6020,18 @@
     "artworkId": "6a4b3e445c7cd75eb8a15cf6",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -6038,10 +6058,18 @@
     "artworkId": "6a4b3e465c7cd75eb8a16451",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -6049,10 +6077,18 @@
     "artworkId": "6a4b3e465c7cd75eb8a16344",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The soft pink color palette and gentle, whimsical style create a sense of warmth and affection."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -6079,10 +6115,18 @@
     "artworkId": "6a4b3e6a5c7cd75eb8a241f4",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's emotional resonance and playful style are highlighted by its use of contrasting colors and exaggerated features."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -6101,10 +6145,18 @@
     "artworkId": "6a4b3e395c7cd75eb8a12d21",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -6145,10 +6197,18 @@
     "artworkId": "6a4b3e575c7cd75eb8a1dc3c",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
