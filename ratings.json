@@ -269,17 +269,23 @@
     "artworkId": "6a4b454e5c7cd75eb8c27357",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 6,
+    "elo": 1192,
+    "voteCount": 7,
     "recentResults": [
       1,
       0,
       0,
       1,
       0,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -417,8 +423,8 @@
     "artworkId": "6a4b44e35c7cd75eb8c05192",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 7,
+    "elo": 1216,
+    "voteCount": 8,
     "recentResults": [
       0,
       1,
@@ -426,9 +432,15 @@
       1,
       0,
       1,
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's emotional resonance and visual impact stem from its contrasting color palette and dynamic sky."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -6373,10 +6385,18 @@
     "artworkId": "6a4b3e3e5c7cd75eb8a143af",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -6385,9 +6405,23 @@
     "author": "karl",
     "category": "old",
     "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "voteCount": 2,
+    "recentResults": [
+      1,
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's simplicity and focus on character emotions create a strong emotional impact."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -6395,10 +6429,18 @@
     "artworkId": "6a4b3e505c7cd75eb8a19b1a",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's simplicity and focus on character emotions and interactions create a strong visual impact."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -6406,10 +6448,18 @@
     "artworkId": "6a4b3e535c7cd75eb8a1b217",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a harmonious blend of soft, blended textures and subtle linework, emphasizing the artist's skill in creating a dreamy atmosphere."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -6428,10 +6478,18 @@
     "artworkId": "6a4b3e4f5c7cd75eb8a19349",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
