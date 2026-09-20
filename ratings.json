@@ -509,15 +509,21 @@
     "artworkId": "6a4b45245c7cd75eb8c1a04a",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 4,
+    "elo": 1192,
+    "voteCount": 5,
     "recentResults": [
       0,
       1,
       0,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -7317,10 +7323,18 @@
     "artworkId": "6a4b3e4e5c7cd75eb8a18d96",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of visible and implied linework, textures, and brush techniques, emphasizing the artist's skill in creating a three-dimensional character."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -7328,10 +7342,18 @@
     "artworkId": "6a4b3e715c7cd75eb8a262b1",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -7339,10 +7361,18 @@
     "artworkId": "6a4b3e715c7cd75eb8a25f30",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The composition, framing, and focal point clarity are enhanced by the clear separation of elements and the focus on individual expressions."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -7350,10 +7380,18 @@
     "artworkId": "6a4b3e615c7cd75eb8a216c5",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -7380,10 +7418,18 @@
     "artworkId": "6a4b3e6f5c7cd75eb8a2564d",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -7432,10 +7478,18 @@
     "artworkId": "6a4b3e4c5c7cd75eb8a181e9",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The simplicity and lighthearted nature of the character's attire and expression contribute to a sense of innocence and playfulness."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -7454,10 +7508,18 @@
     "artworkId": "6a8459825c7cd75eb87587e9",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of smooth and textured linework, demonstrating a clear definition and attention to detail."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
