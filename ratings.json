@@ -905,14 +905,20 @@
     "artworkId": "6a4b452e5c7cd75eb8c1c8a6",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 3,
+    "elo": 1200,
+    "voteCount": 4,
     "recentResults": [
       1,
       0,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -7807,10 +7813,18 @@
     "artworkId": "6a4b3e4d5c7cd75eb8a18387",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -7818,10 +7832,24 @@
     "artworkId": "6a4b3e795c7cd75eb8a29094",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1216,
+    "voteCount": 2,
+    "recentResults": [
+      1,
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's warm color palette and whimsical figures create a sense of tranquility and connection."
+      },
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The composition and framing of the image create a strong focal point, drawing the viewer's eye to the silhouetted figures against the vibrant sky."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
