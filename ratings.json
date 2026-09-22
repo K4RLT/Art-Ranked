@@ -589,14 +589,20 @@
     "artworkId": "6a4b44dd5c7cd75eb8c031eb",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 3,
+    "elo": 1200,
+    "voteCount": 4,
     "recentResults": [
       1,
       0,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -1128,12 +1134,18 @@
     "artworkId": "6a4b44e75c7cd75eb8c068e9",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -8232,10 +8244,18 @@
     "artworkId": "6a4b3e655c7cd75eb8a22958",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -8262,10 +8282,24 @@
     "artworkId": "6a4b3e775c7cd75eb8a2808b",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1216,
+    "voteCount": 2,
+    "recentResults": [
+      1,
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The strong, detailed anatomical proportions and expressive facial features create a lifelike and engaging character."
+      },
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The composition and framing create a strong focal point, drawing the viewer's eye directly to the cat's face."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -8292,10 +8326,18 @@
     "artworkId": "6a4b3e4b5c7cd75eb8a17831",
     "author": "karl",
     "category": "old",
-    "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a clear definition and use of linework, textures, and brush techniques, emphasizing the artist's ability to create detailed and realistic elements."
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
@@ -8304,9 +8346,23 @@
     "author": "karl",
     "category": "old",
     "elo": 1200,
-    "voteCount": 0,
-    "recentResults": [],
-    "lastReasons": [],
+    "voteCount": 2,
+    "recentResults": [
+      0,
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork showcases a balanced color palette and lighting that creates a sense of depth and atmosphere."
+      },
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      }
+    ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
   },
