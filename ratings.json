@@ -589,16 +589,22 @@
     "artworkId": "6a4b44dd5c7cd75eb8c031eb",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 5,
+    "elo": 1200,
+    "voteCount": 6,
     "recentResults": [
       1,
       0,
       1,
       0,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -1444,12 +1450,18 @@
     "artworkId": "6a4b44d95c7cd75eb8c01543",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The anatomical accuracy and realistic rendering of the character's features and body proportions are highlighted."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
