@@ -1500,12 +1500,18 @@
     "artworkId": "6a4b44c85c7cd75eb8bfb405",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The composition and framing effectively draw attention to the face and ears, creating a clear focal point."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -1519,12 +1525,18 @@
     "artworkId": "6a4b44c15c7cd75eb8bf8d57",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -1658,12 +1670,18 @@
     "artworkId": "6a4b45255c7cd75eb8c1a4e4",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The soft, warm colors and gentle light create a serene and tranquil atmosphere."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -1771,12 +1789,18 @@
     "artworkId": "6a4b44d65c7cd75eb8bffd4a",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
