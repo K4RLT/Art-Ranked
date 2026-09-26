@@ -699,13 +699,19 @@
     "artworkId": "6a4b44e35c7cd75eb8c04de8",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1176,
+    "voteCount": 3,
     "recentResults": [
+      0,
       0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -1612,12 +1618,18 @@
     "artworkId": "6a4b44d05c7cd75eb8bfd6c9",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a clear definition and use of linework, textures, and brush techniques."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -1632,11 +1644,23 @@
     "author": "karl",
     "category": "new",
     "elo": 1192,
-    "voteCount": 1,
+    "voteCount": 3,
     "recentResults": [
-      0
+      0,
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The artwork showcases a detailed and realistic anatomical representation of a creature's head, emphasizing its facial features and proportions."
+      },
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
