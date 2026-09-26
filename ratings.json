@@ -644,8 +644,8 @@
     "artworkId": "6a4b44cc5c7cd75eb8bfc669",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 7,
+    "elo": 1200,
+    "voteCount": 8,
     "recentResults": [
       0,
       1,
@@ -653,9 +653,15 @@
       0,
       1,
       0,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork utilizes a limited color palette and warm lighting to create a cozy and engaging atmosphere."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -1774,12 +1780,18 @@
     "artworkId": "6a4b451f5c7cd75eb8c1855a",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The simplicity and stark contrast between the white background and the black outline create a powerful and evocative visual impact."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -1874,12 +1886,18 @@
     "artworkId": "6a4b45235c7cd75eb8c197ea",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -2151,12 +2169,18 @@
     "artworkId": "6a4b44c55c7cd75eb8bf9a5d",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
