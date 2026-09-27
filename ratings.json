@@ -103,8 +103,8 @@
     "artworkId": "6a4b44d65c7cd75eb8bffeb3",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 7,
+    "elo": 1184,
+    "voteCount": 8,
     "recentResults": [
       0,
       1,
@@ -112,9 +112,15 @@
       0,
       0,
       1,
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -2173,12 +2179,18 @@
     "artworkId": "6a4b45165c7cd75eb8c15499",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -2292,12 +2304,18 @@
     "artworkId": "6a4b451d5c7cd75eb8c17bd3",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The simplicity and bold lines create a strong visual impact and evoke a feeling of playfulness and innocence."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -2550,12 +2568,18 @@
     "artworkId": "6a4b451f5c7cd75eb8c18488",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The primary artistic strength lies in the detailed linework, textures, and brush techniques used to create the furry creature's facial features and surrounding areas."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
