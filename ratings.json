@@ -1998,12 +1998,18 @@
     "artworkId": "6a4b45065c7cd75eb8c10181",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -2042,12 +2048,18 @@
     "artworkId": "6a4b452c5c7cd75eb8c1bff6",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -2237,12 +2249,18 @@
     "artworkId": "6a4b44ca5c7cd75eb8bfbcb3",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The artwork showcases a detailed and realistic anatomical drawing of a furry character with exaggerated features and expressive body language."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -2395,14 +2413,20 @@
     "artworkId": "6a4b44d65c7cd75eb8bffdf2",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 3,
+    "elo": 1216,
+    "voteCount": 4,
     "recentResults": [
       1,
       0,
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The monochromatic palette and strong contrast between the light background and the dark arm muscles create a dramatic and powerful visual effect."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
