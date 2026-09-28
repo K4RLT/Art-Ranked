@@ -570,14 +570,20 @@
     "artworkId": "6a4b44e25c7cd75eb8c048fb",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 3,
+    "elo": 1184,
+    "voteCount": 4,
     "recentResults": [
       1,
+      0,
       0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -2447,12 +2453,18 @@
     "artworkId": "6a4b44d55c7cd75eb8bff695",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The anatomical accuracy and proportionality of the wolf's head in comparison to the human head are evident."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -2528,12 +2540,18 @@
     "artworkId": "6a4b44df5c7cd75eb8c03af5",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The primary artistic strength is the use of contrasting black and white shades to create a dramatic and engaging visual effect."
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -2635,12 +2653,18 @@
     "artworkId": "6a4b44cd5c7cd75eb8bfc8ba",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
