@@ -2715,12 +2715,18 @@
     "artworkId": "6a4b45055c7cd75eb8c0f5a4",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork showcases a harmonious color palette of greens and blues, creating a serene and tranquil atmosphere."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -2946,12 +2952,18 @@
     "artworkId": "6a4b452b5c7cd75eb8c1bbc2",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
