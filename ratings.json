@@ -3431,12 +3431,18 @@
     "artworkId": "6a4b44d75c7cd75eb8c005d2",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -3450,12 +3456,18 @@
     "artworkId": "6a4b44de5c7cd75eb8c033fe",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's emotional resonance and playful style are highlighted through its whimsical and expressive lines."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -3683,12 +3695,18 @@
     "artworkId": "6a4b451e5c7cd75eb8c180e8",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork utilizes a limited color palette and lighting to create a minimalist and playful atmosphere."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -3746,12 +3764,18 @@
     "artworkId": "6a4b45325c7cd75eb8c1d884",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
