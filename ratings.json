@@ -2390,14 +2390,20 @@
     "artworkId": "6a4b45135c7cd75eb8c13fb7",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 3,
+    "elo": 1216,
+    "voteCount": 4,
     "recentResults": [
       0,
+      1,
       1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's simplicity and focus on character emotional expression create a strong visual impact."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -3687,12 +3693,18 @@
     "artworkId": "6a4b454d5c7cd75eb8c26e9f",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The use of blue for the eyes, hair, and overall color scheme creates a strong contrast and visual impact."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -3706,12 +3718,18 @@
     "artworkId": "6a4b44d65c7cd75eb8bfff02",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -4077,12 +4095,18 @@
     "artworkId": "6a4b44dd5c7cd75eb8c03105",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
