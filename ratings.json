@@ -4174,12 +4174,18 @@
     "artworkId": "6a4b45115c7cd75eb8c13893",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's stark contrast between the white and black canine figures and the urban cityscape creates a powerful visual impact and emotional resonance."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -4193,12 +4199,18 @@
     "artworkId": "6a4b44c85c7cd75eb8bfb346",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -4212,12 +4224,18 @@
     "artworkId": "6a4b44cc5c7cd75eb8bfc3db",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -4595,12 +4613,18 @@
     "artworkId": "6a84597f5c7cd75eb875603c",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The artwork showcases a detailed and realistic character silhouette, highlighting anatomical accuracy and attention to detail."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
