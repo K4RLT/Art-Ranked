@@ -3899,12 +3899,18 @@
     "artworkId": "6a8459815c7cd75eb87580f4",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -4195,12 +4201,18 @@
     "artworkId": "6a4b44c75c7cd75eb8bfae7e",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The strong contrast between the red and white garments and the white background creates a clear focal point."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
