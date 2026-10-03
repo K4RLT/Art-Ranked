@@ -3999,12 +3999,18 @@
     "artworkId": "6a4b44d55c7cd75eb8bff46e",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -4068,12 +4074,18 @@
     "artworkId": "6a4b45165c7cd75eb8c159f0",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The monochromatic palette and stark white background create a strong contrast and emphasize the cat's features."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -4244,12 +4256,18 @@
     "artworkId": "6a4b44c75c7cd75eb8bfacf1",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The anatomical accuracy and proportionality of the character's body are evident in the detailed lines and shading."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -4445,12 +4463,18 @@
     "artworkId": "6a4b44de5c7cd75eb8c03708",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
