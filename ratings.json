@@ -4623,12 +4623,18 @@
     "artworkId": "6a8459805c7cd75eb87563fd",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork utilizes a bright, bold color palette and strong lighting to create a lively and engaging atmosphere."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -4692,12 +4698,18 @@
     "artworkId": "6a4b44d95c7cd75eb8c01009",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The artwork showcases a detailed and realistic anatomical representation of a character's face and upper body."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -4736,12 +4748,18 @@
     "artworkId": "6a4b45245c7cd75eb8c199ea",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -5058,14 +5076,20 @@
     "artworkId": "6a4b44e05c7cd75eb8c03f18",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 3,
+    "elo": 1184,
+    "voteCount": 4,
     "recentResults": [
       0,
       1,
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
