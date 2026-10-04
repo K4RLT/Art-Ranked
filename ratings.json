@@ -4536,12 +4536,18 @@
     "artworkId": "6a4b45155c7cd75eb8c14f05",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -4555,12 +4561,18 @@
     "artworkId": "6a8459845c7cd75eb875b7fc",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -4630,12 +4642,18 @@
     "artworkId": "6a4b45255c7cd75eb8c1a318",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork utilizes a bright, bold color palette with blue, white, red, and black accents, creating a lively and energetic atmosphere."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -4844,12 +4862,18 @@
     "artworkId": "6a4b44d55c7cd75eb8bff776",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The anatomical accuracy and proportionality of the character's limbs and body are evident, contributing to a realistic and engaging character design."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
