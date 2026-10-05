@@ -4798,12 +4798,18 @@
     "artworkId": "6a4b44db5c7cd75eb8c01d73",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The artwork effectively showcases anatomical proportions and character silhouette, emphasizing the cat-like features and playful pose."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -4842,12 +4848,18 @@
     "artworkId": "6a4b454a5c7cd75eb8c261f6",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork's monochromatic palette and stark white background create a strong contrast and emphasize the contoured forms."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -4861,12 +4873,18 @@
     "artworkId": "6a4b452d5c7cd75eb8c1c25e",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -5214,12 +5232,18 @@
     "artworkId": "6a4b44d65c7cd75eb8bffa73",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
