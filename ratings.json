@@ -4973,12 +4973,18 @@
     "artworkId": "6a4b45285c7cd75eb8c1b042",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -5471,12 +5477,18 @@
     "artworkId": "6a4b454d5c7cd75eb8c270eb",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork's color palette and lighting create a dynamic and energetic atmosphere."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
