@@ -5179,12 +5179,18 @@
     "artworkId": "6a4b44e95c7cd75eb8c0713f",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The contrast between the dark silhouettes and the bright crescent moon creates a dramatic and emotionally resonant scene."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -5406,12 +5412,18 @@
     "artworkId": "6a4b44d25c7cd75eb8bfe298",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
