@@ -5329,12 +5329,18 @@
     "artworkId": "6a4b44de5c7cd75eb8c034f6",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The composition and framing effectively draw attention to the goat's face, creating a clear focal point."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -5625,12 +5631,18 @@
     "artworkId": "6a4b45205c7cd75eb8c18ae6",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
