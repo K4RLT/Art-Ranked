@@ -201,13 +201,19 @@
     "artworkId": "6a4b44e55c7cd75eb8c0626b",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1208,
+    "voteCount": 3,
     "recentResults": [
       1,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -5510,12 +5516,18 @@
     "artworkId": "6a4b44da5c7cd75eb8c01815",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -5529,12 +5541,24 @@
     "artworkId": "6a4b44d25c7cd75eb8bfe2ea",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1224,
+    "voteCount": 3,
     "recentResults": [
+      1,
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The strong, defined body proportions and clear facial features contribute to the powerful and engaging character silhouette."
+      },
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The strong contrast between the white background and the black outlines creates a dramatic and engaging visual effect."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
