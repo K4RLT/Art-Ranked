@@ -5360,12 +5360,18 @@
     "artworkId": "6a4b44de5c7cd75eb8c0366a",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The abstract white and gray shapes create a sense of depth and movement, evoking a dynamic anatomical representation."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -5429,12 +5435,18 @@
     "artworkId": "6a4b44cc5c7cd75eb8bfc3e1",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's simplicity and focus on character design contribute to its emotional impact."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -5624,12 +5636,18 @@
     "artworkId": "6a4b450a5c7cd75eb8c11c37",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -5668,12 +5686,18 @@
     "artworkId": "6a4b44d35c7cd75eb8bfe546",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
