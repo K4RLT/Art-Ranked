@@ -5859,12 +5859,18 @@
     "artworkId": "6a4b44e65c7cd75eb8c0631b",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -5953,12 +5959,18 @@
     "artworkId": "6a4b45295c7cd75eb8c1b502",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -6067,12 +6079,18 @@
     "artworkId": "6a4b44c85c7cd75eb8bfb277",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's bold color palette and stark contrast between red, black, and white create a powerful and evocative visual impact."
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -6225,12 +6243,18 @@
     "artworkId": "6a4b45195c7cd75eb8c16da1",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of bold, expressive lettering with dynamic, flowing brushstrokes, creating a visually engaging and dynamic composition."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
