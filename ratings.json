@@ -6140,12 +6140,18 @@
     "artworkId": "6a4b44cc5c7cd75eb8bfc514",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The artwork's composition, framing, and focal point clarity are enhanced by the clear, well-defined lines and shapes."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -6159,12 +6165,18 @@
     "artworkId": "6a4b454d5c7cd75eb8c27029",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a clear definition and use of linework, textures, and brush techniques."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -6348,12 +6360,18 @@
     "artworkId": "6a4b44c75c7cd75eb8bfaf8d",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -6525,12 +6543,18 @@
     "artworkId": "6a8459835c7cd75eb875a940",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
