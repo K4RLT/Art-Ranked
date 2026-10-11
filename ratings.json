@@ -6265,12 +6265,18 @@
     "artworkId": "6a4b44e35c7cd75eb8c04c2a",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -6359,12 +6365,18 @@
     "artworkId": "6a4b450c5c7cd75eb8c12446",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The composition and framing of the image create a strong focal point, drawing attention to the cat's expressive face."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -6617,12 +6629,18 @@
     "artworkId": "6a4b44c95c7cd75eb8bfb68d",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -6831,12 +6849,18 @@
     "artworkId": "6a4b3e455c7cd75eb8a15fbd",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The emotional resonance and visual impact are enhanced by the simplicity and direct use of line and form, creating a powerful and relatable portrait."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
