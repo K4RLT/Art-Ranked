@@ -6771,14 +6771,20 @@
     "artworkId": "6a4b3e625c7cd75eb8a21a3d",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 3,
+    "elo": 1184,
+    "voteCount": 4,
     "recentResults": [
       0,
       1,
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -6958,12 +6964,18 @@
     "artworkId": "6a4b3e555c7cd75eb8a1bed2",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -6977,12 +6989,18 @@
     "artworkId": "6a4b3e7c5c7cd75eb8a2a8f7",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's emotional resonance and visual impact stem from its whimsical and whimsical style, combining natural elements with a whimsical creature."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -6996,12 +7014,18 @@
     "artworkId": "6a4b3e6e5c7cd75eb8a2530d",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The sketch's focus on capturing the character's face and upper body, emphasizing the facial features and expression."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
