@@ -964,16 +964,22 @@
     "artworkId": "6a4b454f5c7cd75eb8c27758",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 5,
+    "elo": 1216,
+    "voteCount": 6,
     "recentResults": [
       0,
       1,
       1,
       0,
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of soft, flowing lines and bold, textured brushstrokes, creating a dynamic and expressive portrait."
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -7145,12 +7151,18 @@
     "artworkId": "6a4b3e815c7cd75eb8a2c7a0",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's emotional resonance and simplistic style create a strong visual impact."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -7164,12 +7176,18 @@
     "artworkId": "6a4b3e395c7cd75eb8a12e3e",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -7246,12 +7264,18 @@
     "artworkId": "6a4b3e645c7cd75eb8a2225e",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
