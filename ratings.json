@@ -7607,12 +7607,18 @@
     "artworkId": "6a4b3e555c7cd75eb8a1c763",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -7657,12 +7663,18 @@
     "artworkId": "6a4b3e455c7cd75eb8a16084",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -7846,12 +7858,18 @@
     "artworkId": "6a4b3e675c7cd75eb8a22ffe",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The strong, defined anatomical proportions and simplified, cartoon-like character silhouette create a visually striking and engaging artwork."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -7934,12 +7952,18 @@
     "artworkId": "6a4b3e485c7cd75eb8a16c28",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's simplicity and focus on character emotional expression contribute to its strong visual impact."
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
