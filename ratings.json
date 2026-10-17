@@ -619,8 +619,8 @@
     "artworkId": "6a4b44dd5c7cd75eb8c031eb",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 7,
+    "elo": 1184,
+    "voteCount": 8,
     "recentResults": [
       1,
       0,
@@ -628,9 +628,15 @@
       0,
       1,
       0,
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -7057,14 +7063,20 @@
     "artworkId": "6a4b3e6f5c7cd75eb8a2597f",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 3,
+    "elo": 1184,
+    "voteCount": 4,
     "recentResults": [
       0,
       1,
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -8324,12 +8336,18 @@
     "artworkId": "6a4b3e455c7cd75eb8a16073",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The primary artistic strength lies in the clear definition and use of linework, textures, and brush techniques to create distinct and detailed character faces."
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -8343,12 +8361,18 @@
     "artworkId": "6a4b3e705c7cd75eb8a25d91",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The simplicity and emotional depth of the character's expression and features create a strong visual impact."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
