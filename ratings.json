@@ -8137,12 +8137,18 @@
     "artworkId": "6a4b3e3e5c7cd75eb8a143af",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The primary artistic strength lies in the accurate and detailed anatomical representation of a human figure, showcasing proportions and body structure."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -8193,12 +8199,18 @@
     "artworkId": "6a4b3e505c7cd75eb8a19b1a",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -8237,12 +8249,18 @@
     "artworkId": "6a4b3e725c7cd75eb8a2678b",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -8678,12 +8696,18 @@
     "artworkId": "6a4b3e6c5c7cd75eb8a24b3e",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The anatomical accuracy and proportionality of the cat's features are evident in the sketch."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
