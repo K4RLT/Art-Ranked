@@ -8062,12 +8062,18 @@
     "artworkId": "6a4b3e705c7cd75eb8a25d2d",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -8275,12 +8281,18 @@
     "artworkId": "6a4b3e4d5c7cd75eb8a188a5",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The emotional resonance and playful interaction between the central character and their companions create a lighthearted and engaging mood."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
