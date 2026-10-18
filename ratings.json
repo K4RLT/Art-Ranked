@@ -8548,12 +8548,18 @@
     "artworkId": "6a4b3e635c7cd75eb8a21fce",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The emotional resonance is heightened by the raw, unedited style and intense focus on the character's physical form."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -8636,12 +8642,18 @@
     "artworkId": "6a84597d5c7cd75eb8752d03",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
