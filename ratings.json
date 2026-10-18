@@ -8442,12 +8442,18 @@
     "artworkId": "6a4b3e6d5c7cd75eb8a250a6",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of clean lines, solid colors, and simple shading, emphasizing the character's features and expression."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -8486,12 +8492,18 @@
     "artworkId": "6a4b3e445c7cd75eb8a15d30",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -8656,12 +8668,18 @@
     "artworkId": "6a4b3e4d5c7cd75eb8a18711",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -8826,12 +8844,18 @@
     "artworkId": "6a4b3e605c7cd75eb8a214a8",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The use of blue and white creates a calm and serene atmosphere, enhancing the overall visual appeal."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
