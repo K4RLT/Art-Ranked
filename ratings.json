@@ -8567,12 +8567,18 @@
     "artworkId": "6a4b3e425c7cd75eb8a153a1",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The artwork showcases a detailed and realistic anatomical rendering of a character's head, emphasizing its facial features and proportions."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -8586,12 +8592,18 @@
     "artworkId": "6a4b3e705c7cd75eb8a25c64",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
