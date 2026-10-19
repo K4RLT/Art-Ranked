@@ -8517,14 +8517,20 @@
     "artworkId": "6a4b3e415c7cd75eb8a14ff8",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 3,
+    "elo": 1200,
+    "voteCount": 4,
     "recentResults": [
       1,
       0,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The primary artistic strength is the meticulous attention to linework definition, textures, and brush technique, which creates detailed and lifelike facial features."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -8623,12 +8629,18 @@
     "artworkId": "6a4b3e4f5c7cd75eb8a196ca",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The artwork's anatomical accuracy and focus on character silhouette are its primary strengths."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -8717,12 +8729,18 @@
     "artworkId": "6a4b3e4f5c7cd75eb8a19412",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -8736,12 +8754,18 @@
     "artworkId": "6a4b3e425c7cd75eb8a151bd",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
