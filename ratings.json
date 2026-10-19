@@ -8929,12 +8929,18 @@
     "artworkId": "6a4b3e3f5c7cd75eb8a14773",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The soft, blurred edges and diffused light create a sense of movement and depth, evoking a peaceful and tranquil atmosphere."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -8948,12 +8954,18 @@
     "artworkId": "6a4b3e445c7cd75eb8a15cf3",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -9099,12 +9111,18 @@
     "artworkId": "6a4b3e515c7cd75eb8a1a6b8",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -9238,12 +9256,18 @@
     "artworkId": "6a4b3e715c7cd75eb8a262b1",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's minimalistic style and focus on facial features and expression create a strong emotional resonance."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
