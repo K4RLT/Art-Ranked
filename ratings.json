@@ -8979,12 +8979,18 @@
     "artworkId": "6a4b3e3e5c7cd75eb8a14476",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "Clear focal points and distinct expressions enhance the overall composition and visual appeal of the sketches."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -9023,12 +9029,18 @@
     "artworkId": "6a4b3e625c7cd75eb8a21c80",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
