@@ -9054,12 +9054,18 @@
     "artworkId": "6a4b3e625c7cd75eb8a21a1d",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork's use of black and white and subtle shading creates a balanced and atmospheric effect."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -9198,12 +9204,18 @@
     "artworkId": "6a4b3e635c7cd75eb8a21f4e",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -9305,12 +9317,18 @@
     "artworkId": "6a4b3e715c7cd75eb8a25f30",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -9552,12 +9570,18 @@
     "artworkId": "6a84597d5c7cd75eb875379b",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The artwork's anatomical accuracy and realistic rendering of fur and features make it visually compelling."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
