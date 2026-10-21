@@ -9354,12 +9354,18 @@
     "artworkId": "6a4b3e615c7cd75eb8a216c5",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The artwork showcases a detailed and realistic character silhouette, highlighting anatomical accuracy and attention to detail."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -9398,12 +9404,18 @@
     "artworkId": "6a4b3e6f5c7cd75eb8a2564d",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's emotional resonance and playful style are highlighted by its whimsical and engaging character design."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -9537,12 +9549,18 @@
     "artworkId": "6a4b3e615c7cd75eb8a215bc",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -9676,12 +9694,18 @@
     "artworkId": "6a4b3e495c7cd75eb8a16dec",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
