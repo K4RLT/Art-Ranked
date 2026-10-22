@@ -9891,12 +9891,18 @@
     "artworkId": "6a4b3e585c7cd75eb8a1df3e",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -9947,12 +9953,18 @@
     "artworkId": "6a4b3e4d5c7cd75eb8a18387",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The strong contrast between the vibrant pink and blue silhouettes creates a visually striking and immersive character experience."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -10035,12 +10047,18 @@
     "artworkId": "6a4b3e455c7cd75eb8a16050",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -10331,12 +10349,18 @@
     "artworkId": "6a4b3e765c7cd75eb8a279b2",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork showcases a harmonious color palette and lighting atmosphere, creating a visually appealing and engaging composition."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
