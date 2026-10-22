@@ -9791,12 +9791,18 @@
     "artworkId": "6a4b3e565c7cd75eb8a1d8d1",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork's monochromatic palette and minimalistic style emphasize the emotional impact of the character's gestures and facial expressions."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -9835,12 +9841,18 @@
     "artworkId": "6a4b3e6a5c7cd75eb8a23c8e",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of expressive linework, detailed textures, and skillful brushwork."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -9898,14 +9910,20 @@
     "artworkId": "6a4b3e885c7cd75eb8a2e3df",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 3,
+    "elo": 1184,
+    "voteCount": 4,
     "recentResults": [
       0,
       1,
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -10250,12 +10268,18 @@
     "artworkId": "6a4b3e6d5c7cd75eb8a2500b",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
