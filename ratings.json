@@ -10278,12 +10278,18 @@
     "artworkId": "6a4b3e855c7cd75eb8a2d917",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -10347,12 +10353,18 @@
     "artworkId": "6a4b3e395c7cd75eb8a12d1a",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -10617,14 +10629,20 @@
     "artworkId": "6a4b3e535c7cd75eb8a1b1e7",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 3,
+    "elo": 1216,
+    "voteCount": 4,
     "recentResults": [
       0,
+      1,
       1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork showcases a balanced color palette and lighting atmosphere, creating a visually appealing and engaging composition."
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -10717,12 +10735,18 @@
     "artworkId": "6a4b3e3d5c7cd75eb8a1400d",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The strong contrast between the dark silhouette and the bright circular eye creates a dramatic and visually striking effect."
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
