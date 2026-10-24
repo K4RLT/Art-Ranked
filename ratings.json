@@ -11099,12 +11099,18 @@
     "artworkId": "6a4b3e625c7cd75eb8a21a42",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The strong contrast between the black outlines and the white background creates a visually striking and detailed anatomical silhouette."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -11523,12 +11529,18 @@
     "artworkId": "custom_ffd4fe572e",
     "author": "visitor",
     "category": "custom",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "Provide a detailed comparative artistic evaluation and mini-essay of this artwork. Analyze: 1) Composition, balance, and spatial depth. 2) Anatomy, character silhouette, or environmental structure. 3) Lighting quality, tonal range, and shadow dynamics. 4) Palette mood and color harmony. 5) Linework precision, expressive polish, and overall artistic impact.",
