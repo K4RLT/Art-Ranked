@@ -10584,12 +10584,18 @@
     "artworkId": "6a4b3e6b5c7cd75eb8a24309",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of realistic and stylized elements, including detailed fur, realistic clouds, and smooth brushstrokes."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -11043,12 +11049,18 @@
     "artworkId": "6a4b3e605c7cd75eb8a211c0",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
