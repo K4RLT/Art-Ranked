@@ -10447,12 +10447,18 @@
     "artworkId": "6a4b3e5c5c7cd75eb8a202ae",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -10691,12 +10697,18 @@
     "artworkId": "6a4b3e3b5c7cd75eb8a13b41",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The strong anatomical proportions and minimalistic character silhouette create a powerful and evocative visual."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
