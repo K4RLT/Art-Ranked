@@ -1,5 +1,23 @@
 [
   {
+    "id": "custom_ffd4fe572e",
+    "title": "Art B",
+    "category": "custom",
+    "tag": "Custom",
+    "date": "2026-10-24",
+    "thumb": "https://ik.imagekit.io/yiran/art-rank-custom/1000240206_aYKSJ0JS9.jpg?tr=w-1024%2Ch-1024%2Cc-at_max%2Cq-80",
+    "fullres": "https://ik.imagekit.io/yiran/art-rank-custom/1000240206_aYKSJ0JS9.jpg?tr=w-1024%2Ch-1024%2Cc-at_max%2Cq-80"
+  },
+  {
+    "id": "custom_634d2c3940",
+    "title": "Art A",
+    "category": "custom",
+    "tag": "Custom",
+    "date": "2026-10-24",
+    "thumb": "https://ik.imagekit.io/yiran/art-rank-custom/1000241497_miX08vSzV.jpg?tr=w-1024%2Ch-1024%2Cc-at_max%2Cq-80",
+    "fullres": "https://ik.imagekit.io/yiran/art-rank-custom/1000241497_miX08vSzV.jpg?tr=w-1024%2Ch-1024%2Cc-at_max%2Cq-80"
+  },
+  {
     "id": "custom_acebbddcda",
     "title": "Artwork B",
     "category": "custom",

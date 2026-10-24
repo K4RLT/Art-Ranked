@@ -11499,5 +11499,43 @@
     ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
+  },
+  "custom_634d2c3940": {
+    "artworkId": "custom_634d2c3940",
+    "author": "visitor",
+    "category": "custom",
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "Provide a detailed comparative artistic evaluation and mini-essay of this artwork. Analyze: 1) Composition, balance, and spatial depth. 2) Anatomy, character silhouette, or environmental structure. 3) Lighting quality, tonal range, and shadow dynamics. 4) Palette mood and color harmony. 5) Linework precision, expressive polish, and overall artistic impact.",
+        "reason": null
+      }
+    ],
+    "scoreFormulaVersion": 1,
+    "ratingSystemVersion": 1
+  },
+  "custom_ffd4fe572e": {
+    "artworkId": "custom_ffd4fe572e",
+    "author": "visitor",
+    "category": "custom",
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "Provide a detailed comparative artistic evaluation and mini-essay of this artwork. Analyze: 1) Composition, balance, and spatial depth. 2) Anatomy, character silhouette, or environmental structure. 3) Lighting quality, tonal range, and shadow dynamics. 4) Palette mood and color harmony. 5) Linework precision, expressive polish, and overall artistic impact.",
+        "reason": "The artwork exhibits strong composition, balance, and spatial depth, achieved through the careful placement of elements and the use of tonal range and shadow."
+      }
+    ],
+    "scoreFormulaVersion": 1,
+    "ratingSystemVersion": 1
   }
 }
