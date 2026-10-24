@@ -10428,12 +10428,18 @@
     "artworkId": "6a4b3e655c7cd75eb8a22958",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The anatomical accuracy and proportionality of the figure are evident in the detailed rendering."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -10917,12 +10923,18 @@
     "artworkId": "6a4b3e505c7cd75eb8a1a189",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
