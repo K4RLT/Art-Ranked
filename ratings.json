@@ -10503,12 +10503,18 @@
     "artworkId": "6a4b3e445c7cd75eb8a15cf1",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The artwork effectively frames the cat's face and leg, drawing attention to its expressive face and playful pose."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -10809,12 +10815,18 @@
     "artworkId": "6a4b3e415c7cd75eb8a14dda",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -11011,12 +11023,18 @@
     "artworkId": "6a4b3e5d5c7cd75eb8a20709",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -11510,12 +11528,18 @@
     "artworkId": "custom_634d2c3940",
     "author": "visitor",
     "category": "custom",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's emotional resonance and visual impact are enhanced by its strong character design, vibrant colors, and heart motif."
+      },
       {
         "by": "ai",
         "criteria": "Provide a detailed comparative artistic evaluation and mini-essay of this artwork. Analyze: 1) Composition, balance, and spatial depth. 2) Anatomy, character silhouette, or environmental structure. 3) Lighting quality, tonal range, and shadow dynamics. 4) Palette mood and color harmony. 5) Linework precision, expressive polish, and overall artistic impact.",
