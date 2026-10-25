@@ -10852,12 +10852,18 @@
     "artworkId": "6a4b3e425c7cd75eb8a152d5",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -10871,12 +10877,18 @@
     "artworkId": "6a4b3e445c7cd75eb8a15cfc",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The strong focus on capturing the cow's head and shoulders effectively creates a clear focal point."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -11185,12 +11197,18 @@
     "artworkId": "6a4b3e635c7cd75eb8a221d5",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -11242,12 +11260,18 @@
     "artworkId": "6a4b3e685c7cd75eb8a23737",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The strong contrast between the dark blue piano and the light gray walls creates a clear focal point."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
