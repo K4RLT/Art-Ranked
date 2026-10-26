@@ -11052,12 +11052,18 @@
     "artworkId": "6a4b3e595c7cd75eb8a1e6b5",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's stark white background and intense red lines create a powerful and intense visual impact."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -11561,12 +11567,18 @@
     "artworkId": "6a4b3e7f5c7cd75eb8a2bf69",
     "author": "karl",
     "category": "old",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
