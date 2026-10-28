@@ -244,17 +244,23 @@
     "artworkId": "6a4b452c5c7cd75eb8c1bec8",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 6,
+    "elo": 1208,
+    "voteCount": 7,
     "recentResults": [
       0,
       1,
       0,
       1,
       1,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -539,8 +545,8 @@
     "artworkId": "6a4b45245c7cd75eb8c1a04a",
     "author": "karl",
     "category": "new",
-    "elo": 1208,
-    "voteCount": 7,
+    "elo": 1216,
+    "voteCount": 8,
     "recentResults": [
       0,
       1,
@@ -548,9 +554,15 @@
       1,
       0,
       1,
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The composition and framing effectively draw attention to the cat's expressive face and unique features."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -11570,12 +11582,18 @@
     "artworkId": "6a4b3e765c7cd75eb8a2794e",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -11614,12 +11632,18 @@
     "artworkId": "6a4b3e795c7cd75eb8a28f1b",
     "author": "karl",
     "category": "old",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's light blue background and minimalist style create a calm and serene atmosphere, enhancing its emotional resonance."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
