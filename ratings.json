@@ -728,8 +728,8 @@
     "artworkId": "6a4b44cc5c7cd75eb8bfc669",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 8,
+    "elo": 1192,
+    "voteCount": 9,
     "recentResults": [
       0,
       1,
@@ -738,9 +738,15 @@
       1,
       0,
       0,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -820,13 +826,19 @@
     "artworkId": "6a4b45275c7cd75eb8c1ad64",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 2,
+    "elo": 1208,
+    "voteCount": 3,
     "recentResults": [
       1,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of expressive linework, detailed textures, and playful brushstrokes, creating a dynamic and engaging character."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
