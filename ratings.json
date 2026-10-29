@@ -906,13 +906,19 @@
     "artworkId": "6a4b44cb5c7cd75eb8bfbef3",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1176,
+    "voteCount": 3,
     "recentResults": [
+      0,
       0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -1159,13 +1165,19 @@
     "artworkId": "6a4b451c5c7cd75eb8c1772d",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1192,
+    "voteCount": 3,
     "recentResults": [
       0,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The strong contrast between the warm tones of the wood and the cool, shadowed area creates a clear focal point."
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
