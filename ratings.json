@@ -397,13 +397,19 @@
     "artworkId": "6a4b44df5c7cd75eb8c03dc4",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1192,
+    "voteCount": 3,
     "recentResults": [
       0,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The soft, blended colors and gentle brushstrokes create a calming and dreamy atmosphere, evoking a sense of serenity and tranquility."
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -532,13 +538,19 @@
     "artworkId": "6a4b44d45c7cd75eb8bfeaa3",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1176,
+    "voteCount": 3,
     "recentResults": [
+      0,
       0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
