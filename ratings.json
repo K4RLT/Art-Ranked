@@ -1306,13 +1306,19 @@
     "artworkId": "6a4b450a5c7cd75eb8c11c06",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1208,
+    "voteCount": 3,
     "recentResults": [
       1,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -1468,13 +1474,19 @@
     "artworkId": "6a4b44df5c7cd75eb8c03b0e",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1224,
+    "voteCount": 3,
     "recentResults": [
+      1,
       1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The strong contrast between the black and white lines and the red circle highlights the figure's facial expression and creates a dramatic effect."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
