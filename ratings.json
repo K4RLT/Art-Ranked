@@ -1042,17 +1042,23 @@
     "artworkId": "6a4b454f5c7cd75eb8c27758",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 6,
+    "elo": 1208,
+    "voteCount": 7,
     "recentResults": [
       0,
       1,
       1,
       0,
       1,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -1140,13 +1146,19 @@
     "artworkId": "6a4b44d35c7cd75eb8bfe403",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1224,
+    "voteCount": 3,
     "recentResults": [
+      1,
       1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The strong contrast between the bright orange and the muted green creates a visually striking and emotionally impactful piece."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
