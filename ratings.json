@@ -630,15 +630,21 @@
     "artworkId": "6a4b44e25c7cd75eb8c048fb",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 4,
+    "elo": 1176,
+    "voteCount": 5,
     "recentResults": [
       1,
+      0,
       0,
       0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -1609,13 +1615,19 @@
     "artworkId": "6a4b44e55c7cd75eb8c05aff",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1192,
+    "voteCount": 3,
     "recentResults": [
       0,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's use of bold, contrasting colors and dynamic lines creates a strong visual impact and emotional resonance."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
