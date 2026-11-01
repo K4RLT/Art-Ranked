@@ -1646,13 +1646,19 @@
     "artworkId": "6a4b44dc5c7cd75eb8c026e2",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1176,
+    "voteCount": 3,
     "recentResults": [
+      0,
       0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -1671,13 +1677,19 @@
     "artworkId": "6a4b45315c7cd75eb8c1d32a",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1192,
+    "voteCount": 3,
     "recentResults": [
       0,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The composition and framing create a strong focal point, drawing the viewer's attention directly to the character's face."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
