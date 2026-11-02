@@ -1770,13 +1770,19 @@
     "artworkId": "6a4b44c85c7cd75eb8bfb405",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1208,
+    "voteCount": 3,
     "recentResults": [
       1,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -2019,13 +2025,19 @@
     "artworkId": "6a4b44e15c7cd75eb8c04565",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1224,
+    "voteCount": 3,
     "recentResults": [
+      1,
       1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The artwork's anatomical accuracy and proportionality are evident in the detailed rendering of the cat and bear."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
