@@ -1999,13 +1999,19 @@
     "artworkId": "6a4b45315c7cd75eb8c1d336",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 2,
+    "elo": 1192,
+    "voteCount": 3,
     "recentResults": [
       1,
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -2404,13 +2410,19 @@
     "artworkId": "6a4b450b5c7cd75eb8c12081",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 2,
+    "elo": 1208,
+    "voteCount": 3,
     "recentResults": [
       1,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The composition creates a sense of depth and perspective, drawing the viewer's eye towards the central mountain."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
