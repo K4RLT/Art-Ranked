@@ -1863,13 +1863,19 @@
     "artworkId": "6a4b45045c7cd75eb8c0f376",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1192,
+    "voteCount": 3,
     "recentResults": [
       0,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The use of contrasting blue and red lines creates a dynamic and visually appealing atmosphere."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -1962,13 +1968,19 @@
     "artworkId": "6a4b44d55c7cd75eb8bff57e",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1176,
+    "voteCount": 3,
     "recentResults": [
+      0,
       0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
