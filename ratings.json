@@ -305,8 +305,8 @@
     "artworkId": "6a4b454e5c7cd75eb8c27357",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 8,
+    "elo": 1176,
+    "voteCount": 9,
     "recentResults": [
       1,
       0,
@@ -315,9 +315,15 @@
       0,
       1,
       0,
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -2166,13 +2172,19 @@
     "artworkId": "6a4b44e45c7cd75eb8c05560",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1192,
+    "voteCount": 3,
     "recentResults": [
       0,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's playful and whimsical style creates a sense of joy and lightheartedness."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
