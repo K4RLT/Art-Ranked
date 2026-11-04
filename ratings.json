@@ -2098,13 +2098,19 @@
     "artworkId": "6a4b451f5c7cd75eb8c1855a",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1224,
+    "voteCount": 3,
     "recentResults": [
+      1,
       1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The simplicity and stark contrast between the white background and the black outline create a powerful and evocative visual impact."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -2397,13 +2403,19 @@
     "artworkId": "6a4b44dd5c7cd75eb8c032d5",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1208,
+    "voteCount": 3,
     "recentResults": [
       1,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
