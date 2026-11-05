@@ -483,8 +483,8 @@
     "artworkId": "6a4b44e35c7cd75eb8c05192",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 8,
+    "elo": 1224,
+    "voteCount": 9,
     "recentResults": [
       0,
       1,
@@ -493,9 +493,15 @@
       0,
       1,
       1,
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of soft, blended textures and fluid, organic brushwork, emphasizing the interplay of light and shadow."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -2401,13 +2407,19 @@
     "artworkId": "6a4b44d45c7cd75eb8bfef22",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1208,
+    "voteCount": 3,
     "recentResults": [
       1,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
