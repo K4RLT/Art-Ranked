@@ -2234,13 +2234,19 @@
     "artworkId": "6a4b45235c7cd75eb8c197ea",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1176,
+    "voteCount": 3,
     "recentResults": [
+      0,
       0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -2259,13 +2265,19 @@
     "artworkId": "6a4b45235c7cd75eb8c196bc",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1192,
+    "voteCount": 3,
     "recentResults": [
       0,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The composition and framing effectively draw attention to the feet, creating a clear focal point."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
