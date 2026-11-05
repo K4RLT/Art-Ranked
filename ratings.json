@@ -575,8 +575,8 @@
     "artworkId": "6a4b45245c7cd75eb8c1a04a",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 8,
+    "elo": 1208,
+    "voteCount": 9,
     "recentResults": [
       0,
       1,
@@ -585,9 +585,15 @@
       0,
       1,
       1,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -2296,13 +2302,19 @@
     "artworkId": "6a4b45215c7cd75eb8c18cb3",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1224,
+    "voteCount": 3,
     "recentResults": [
+      1,
       1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The strong contrast between the black and white lines and the white background creates a visually striking and balanced composition."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
