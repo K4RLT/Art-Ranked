@@ -1041,15 +1041,21 @@
     "artworkId": "6a4b44e75c7cd75eb8c0685f",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 4,
+    "elo": 1208,
+    "voteCount": 5,
     "recentResults": [
       1,
       0,
       1,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -2537,13 +2543,19 @@
     "artworkId": "6a4b450f5c7cd75eb8c12f09",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1224,
+    "voteCount": 3,
     "recentResults": [
+      1,
       1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The simplicity and bold contrast between the mouths' outlines and the white background create a striking visual impact."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
