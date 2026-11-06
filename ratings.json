@@ -1293,8 +1293,8 @@
     "artworkId": "6a4b45245c7cd75eb8c199e2",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 8,
+    "elo": 1192,
+    "voteCount": 9,
     "recentResults": [
       0,
       1,
@@ -1303,9 +1303,15 @@
       1,
       0,
       0,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -2574,13 +2580,19 @@
     "artworkId": "6a4b44c55c7cd75eb8bf9e75",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 2,
+    "elo": 1208,
+    "voteCount": 3,
     "recentResults": [
       1,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The clear focal point is the house, drawing attention despite the simple style."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
