@@ -697,8 +697,8 @@
     "artworkId": "6a4b44dd5c7cd75eb8c031eb",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 8,
+    "elo": 1192,
+    "voteCount": 9,
     "recentResults": [
       1,
       0,
@@ -707,9 +707,15 @@
       1,
       0,
       0,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's expressive style and vibrant colors create a strong visual impact and evoke a feeling of intrigue and curiosity."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -2710,13 +2716,19 @@
     "artworkId": "6a4b45275c7cd75eb8c1aa6a",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1176,
+    "voteCount": 3,
     "recentResults": [
+      0,
       0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
