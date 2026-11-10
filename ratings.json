@@ -3069,13 +3069,19 @@
     "artworkId": "6a4b451e5c7cd75eb8c181e1",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 2,
+    "elo": 1208,
+    "voteCount": 3,
     "recentResults": [
       1,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The stark black and white contrast and dynamic lines create a powerful and engaging visual impact."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -3478,13 +3484,19 @@
     "artworkId": "6a4b452f5c7cd75eb8c1ccdf",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 2,
+    "elo": 1192,
+    "voteCount": 3,
     "recentResults": [
       0,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
