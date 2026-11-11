@@ -893,17 +893,23 @@
     "artworkId": "6a4b450a5c7cd75eb8c119e1",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 6,
+    "elo": 1208,
+    "voteCount": 7,
     "recentResults": [
       1,
       0,
       1,
       0,
       1,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -3168,13 +3174,19 @@
     "artworkId": "6a4b451f5c7cd75eb8c18488",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1224,
+    "voteCount": 3,
     "recentResults": [
+      1,
       1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork's use of contrasting black and white lines and shading creates a strong visual impact."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
