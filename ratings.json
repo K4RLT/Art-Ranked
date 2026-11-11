@@ -1145,17 +1145,23 @@
     "artworkId": "6a4b452e5c7cd75eb8c1c8a6",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 6,
+    "elo": 1208,
+    "voteCount": 7,
     "recentResults": [
       1,
       0,
       1,
       0,
       1,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -3100,13 +3106,19 @@
     "artworkId": "6a4b44e15c7cd75eb8c0452f",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1224,
+    "voteCount": 3,
     "recentResults": [
+      1,
       1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's simplicity and focus on key elements create a strong visual impact and evoke a feeling of mystery or unease."
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
