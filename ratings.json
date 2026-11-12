@@ -3236,13 +3236,19 @@
     "artworkId": "6a4b452d5c7cd75eb8c1c1f9",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 2,
+    "elo": 1208,
+    "voteCount": 3,
     "recentResults": [
       1,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The composition, framing, and focal point clarity are strong due to the clear, well-defined body and the focus on muscularity."
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -3483,13 +3489,19 @@
     "artworkId": "6a4b452f5c7cd75eb8c1cc44",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 2,
+    "elo": 1192,
+    "voteCount": 3,
     "recentResults": [
       0,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
