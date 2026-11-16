@@ -3847,13 +3847,19 @@
     "artworkId": "6a4b44d65c7cd75eb8bffe31",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1208,
+    "voteCount": 3,
     "recentResults": [
       1,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -4371,13 +4377,19 @@
     "artworkId": "6a4b454d5c7cd75eb8c26e9f",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1224,
+    "voteCount": 3,
     "recentResults": [
+      1,
       1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The sketchy style and loose lines create a sense of movement and emotion, emphasizing the character's face and features."
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
