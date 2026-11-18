@@ -3971,13 +3971,19 @@
     "artworkId": "6a4b44e25c7cd75eb8c04730",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1208,
+    "voteCount": 3,
     "recentResults": [
       1,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -4451,13 +4457,19 @@
     "artworkId": "6a4b451e5c7cd75eb8c180e8",
     "author": "karl",
     "category": "new",
-    "elo": 1216,
-    "voteCount": 2,
+    "elo": 1224,
+    "voteCount": 3,
     "recentResults": [
+      1,
       1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "composition, framing, and focal point clarity",
+        "reason": "The artwork's composition and framing create a clear focal point, drawing attention to the cat's face and the food items."
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
