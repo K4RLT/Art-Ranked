@@ -4343,13 +4343,19 @@
     "artworkId": "6a4b45265c7cd75eb8c1a758",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1176,
+    "voteCount": 3,
     "recentResults": [
+      0,
       0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
@@ -5091,13 +5097,19 @@
     "artworkId": "6a4b45215c7cd75eb8c18d1d",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1192,
+    "voteCount": 3,
     "recentResults": [
       0,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork utilizes a bright blue sky, green grass, and blue ocean, creating a visually appealing and balanced color palette."
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
