@@ -103,8 +103,8 @@
     "artworkId": "6a4b44d65c7cd75eb8bffeb3",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 9,
+    "elo": 1200,
+    "voteCount": 10,
     "recentResults": [
       0,
       1,
@@ -114,9 +114,15 @@
       1,
       0,
       0,
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork utilizes a limited color palette and light, emphasizing the character's fur and facial features while conveying a playful and energetic atmosphere."
+      },
       {
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
@@ -213,16 +219,22 @@
     "artworkId": "6a4b44e55c7cd75eb8c0626b",
     "author": "karl",
     "category": "new",
-    "elo": 1192,
-    "voteCount": 5,
+    "elo": 1184,
+    "voteCount": 6,
     "recentResults": [
       1,
       1,
       0,
       0,
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "anatomy, proportions, and character silhouette",
@@ -12538,12 +12550,18 @@
     "artworkId": "custom_0c5808baa9",
     "author": "visitor",
     "category": "custom",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1216,
+    "voteCount": 2,
     "recentResults": [
+      1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": "The artwork's use of bold colors, dynamic poses, and striking contrast creates a visually engaging and emotionally resonant character."
+      },
       {
         "by": "ai",
         "criteria": "Comprehensive artistic evaluation of composition, anatomy, lighting, and linework.",
@@ -12557,12 +12575,18 @@
     "artworkId": "custom_f48ed21609",
     "author": "visitor",
     "category": "custom",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "linework definition, textures, and brush technique",
+        "reason": "The artwork showcases a blend of expressive linework, detailed textures, and skillful brushwork."
+      },
       {
         "by": "ai",
         "criteria": "Comprehensive artistic evaluation of composition, anatomy, lighting, and linework.",
@@ -12576,12 +12600,18 @@
     "artworkId": "custom_39e5691bbe",
     "author": "visitor",
     "category": "custom",
-    "elo": 1208,
-    "voteCount": 1,
+    "elo": 1200,
+    "voteCount": 2,
     "recentResults": [
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "overall visual impact and emotional resonance",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "Comprehensive artistic evaluation of composition, anatomy, lighting, and linework.",
@@ -12595,12 +12625,18 @@
     "artworkId": "custom_b712a34944",
     "author": "visitor",
     "category": "custom",
-    "elo": 1192,
-    "voteCount": 1,
+    "elo": 1184,
+    "voteCount": 2,
     "recentResults": [
+      0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "Comprehensive artistic evaluation of composition, anatomy, lighting, and linework.",
