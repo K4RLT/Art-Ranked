@@ -12571,5 +12571,43 @@
     ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
+  },
+  "custom_39e5691bbe": {
+    "artworkId": "custom_39e5691bbe",
+    "author": "visitor",
+    "category": "custom",
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "Comprehensive artistic evaluation of composition, anatomy, lighting, and linework.",
+        "reason": "The artwork's strong use of anatomical detail, lighting, and linework contributes to its realistic and detailed appearance."
+      }
+    ],
+    "scoreFormulaVersion": 1,
+    "ratingSystemVersion": 1
+  },
+  "custom_b712a34944": {
+    "artworkId": "custom_b712a34944",
+    "author": "visitor",
+    "category": "custom",
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "Comprehensive artistic evaluation of composition, anatomy, lighting, and linework.",
+        "reason": null
+      }
+    ],
+    "scoreFormulaVersion": 1,
+    "ratingSystemVersion": 1
   }
 }

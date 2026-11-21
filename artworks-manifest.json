@@ -1,5 +1,23 @@
 [
   {
+    "id": "custom_b712a34944",
+    "title": "Art B",
+    "category": "custom",
+    "tag": "Custom",
+    "date": "2026-11-21",
+    "thumb": "https://ik.imagekit.io/yiran/art-rank-custom/2026-10-14_02-09_LXb2EkhDy.png?tr=w-1024%2Ch-1024%2Cc-at_max%2Cq-80",
+    "fullres": "https://ik.imagekit.io/yiran/art-rank-custom/2026-10-14_02-09_LXb2EkhDy.png?tr=w-1024%2Ch-1024%2Cc-at_max%2Cq-80"
+  },
+  {
+    "id": "custom_39e5691bbe",
+    "title": "Art A",
+    "category": "custom",
+    "tag": "Custom",
+    "date": "2026-11-21",
+    "thumb": "https://ik.imagekit.io/yiran/art-rank-custom/2026-10-10_16-41_aMzcNc4du.png?tr=w-1024%2Ch-1024%2Cc-at_max%2Cq-80",
+    "fullres": "https://ik.imagekit.io/yiran/art-rank-custom/2026-10-10_16-41_aMzcNc4du.png?tr=w-1024%2Ch-1024%2Cc-at_max%2Cq-80"
+  },
+  {
     "id": "custom_f48ed21609",
     "title": "Art B",
     "category": "custom",
