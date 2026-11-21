@@ -12533,5 +12533,43 @@
     ],
     "scoreFormulaVersion": 1,
     "ratingSystemVersion": 1
+  },
+  "custom_0c5808baa9": {
+    "artworkId": "custom_0c5808baa9",
+    "author": "visitor",
+    "category": "custom",
+    "elo": 1208,
+    "voteCount": 1,
+    "recentResults": [
+      1
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "Comprehensive artistic evaluation of composition, anatomy, lighting, and linework.",
+        "reason": "The artwork showcases a blend of detailed anatomical features, dynamic lighting, and striking linework, creating a visually engaging and imaginative character."
+      }
+    ],
+    "scoreFormulaVersion": 1,
+    "ratingSystemVersion": 1
+  },
+  "custom_f48ed21609": {
+    "artworkId": "custom_f48ed21609",
+    "author": "visitor",
+    "category": "custom",
+    "elo": 1192,
+    "voteCount": 1,
+    "recentResults": [
+      0
+    ],
+    "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "Comprehensive artistic evaluation of composition, anatomy, lighting, and linework.",
+        "reason": null
+      }
+    ],
+    "scoreFormulaVersion": 1,
+    "ratingSystemVersion": 1
   }
 }
