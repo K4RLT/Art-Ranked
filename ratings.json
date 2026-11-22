@@ -4703,13 +4703,19 @@
     "artworkId": "6a8459815c7cd75eb87580f4",
     "author": "karl",
     "category": "new",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1176,
+    "voteCount": 3,
     "recentResults": [
+      0,
       0,
       0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "composition, framing, and focal point clarity",
@@ -12625,13 +12631,19 @@
     "artworkId": "custom_b712a34944",
     "author": "visitor",
     "category": "custom",
-    "elo": 1184,
-    "voteCount": 2,
+    "elo": 1192,
+    "voteCount": 3,
     "recentResults": [
       0,
-      0
+      0,
+      1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "anatomy, proportions, and character silhouette",
+        "reason": "The artwork showcases a detailed and realistic anatomical representation of a character's head, neck, and hands, emphasizing anatomical accuracy and character design."
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
