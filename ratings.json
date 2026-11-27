@@ -103,10 +103,9 @@
     "artworkId": "6a4b44d65c7cd75eb8bffeb3",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 10,
+    "elo": 1208,
+    "voteCount": 11,
     "recentResults": [
-      0,
       1,
       1,
       0,
@@ -114,10 +113,16 @@
       1,
       0,
       0,
+      1,
       1,
       1
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": "The artwork utilizes a limited color palette and light, emphasizing the character's fur and facial features while conveying a playful and energetic atmosphere."
+      },
       {
         "by": "ai",
         "criteria": "color theory, palette harmony, and lighting atmosphere",
@@ -162,11 +167,6 @@
         "by": "ai",
         "criteria": "overall visual impact and emotional resonance",
         "reason": "The artwork's simplicity and focus on character emotional expression create a strong visual impact."
-      },
-      {
-        "by": "ai",
-        "criteria": "composition, framing, and focal point clarity",
-        "reason": null
       }
     ],
     "scoreFormulaVersion": 1,
@@ -4572,13 +4572,19 @@
     "artworkId": "6a8459835c7cd75eb875a460",
     "author": "karl",
     "category": "new",
-    "elo": 1200,
-    "voteCount": 2,
+    "elo": 1192,
+    "voteCount": 3,
     "recentResults": [
       0,
-      1
+      1,
+      0
     ],
     "lastReasons": [
+      {
+        "by": "ai",
+        "criteria": "color theory, palette harmony, and lighting atmosphere",
+        "reason": null
+      },
       {
         "by": "ai",
         "criteria": "linework definition, textures, and brush technique",
